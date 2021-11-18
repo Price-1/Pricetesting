@@ -1,0 +1,7 @@
+<meta>
+	<info name="Pricetesting" description= "Me testing for GTAW"/>
+	<!-- Uncompiled: -->
+	<!--<script src="Class1.cs" /> -->
+	<!-- Uncompiled: -->
+	<script src="bin/debug/netcoreapp3.1/Pricetesting.dll"/>
+</meta>
